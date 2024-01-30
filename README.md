@@ -12,4 +12,4 @@
 
 01.2024: [Вселенная тестирования, или Как стать тестировщиком](https://stepik.org/course/118842/syllabus) - Получено широкое понимание роли тестировщика.
 
-soon:  Тест-кейс, Чек-лист, Баг-репорт, Отчет по тестированию, DevTools Network, Postman, Bash, MySQL, Android Studio, Git, Jira, Charles Proxy
+soon:  Тест-кейс, Чек-лист, Баг-репорт, Отчет по тестированию, DevTools Network, Postman, Bash, MySQL, Android Studio, Git, Jira, Charles Proxy, автотестирование, Puppeteer, Selenium, SoapUI
